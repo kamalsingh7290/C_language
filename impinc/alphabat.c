@@ -2,6 +2,7 @@
 #include<stdlib.h>
 int main()
 {
+   
     int ch=65;
     system("cls");
     for(int i=0;i<6;i++)
